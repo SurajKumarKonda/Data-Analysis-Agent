@@ -1,6 +1,6 @@
 # ⚡ Data Analyst Agent — Your AI-Powered Data Companion  
 > Smarter, faster, and more intuitive analysis of your datasets using **Generative AI + Python magic.**  
-> Repository: *Insert your GitHub repo link here*
+> Repository: *https://github.com/SurajKumarKonda/Data-Analysis-Agent*
 
 ---
 
@@ -28,7 +28,7 @@ Perfect for:
 | 🌍 Web Scraper Mode       | Fetch live data directly from URLs |
 | 📂 Multi-Format Friendly  | Accepts CSV, Excel, JSON, Parquet, or TXT |
 | 🔄 Ask Many at Once       | Batch processing for multiple questions |
-| 🖥️ Simple-to-Use Interface | Beginner friendly, no steep learning curve |
+| 🖥️ Simple-to-Use Interface | Beginner-friendly, no steep learning curve |
 | ⚡ Super-Fast Execution   | Optimized for speed + real-time feedback |
 
 ---
